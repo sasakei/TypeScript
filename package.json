@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sasakei/TypeScript/issues"
   },
-  "homepage": "https://github.com/sasakei/TypeScript#readme"
+  "homepage": "https://github.com/sasakei/TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
