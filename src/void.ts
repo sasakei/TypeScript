@@ -5,3 +5,5 @@ function returnNothing(): void {
 }
 
 console.log(returnNothing());
+
+// voidは返す値が存在しない場合の型である
