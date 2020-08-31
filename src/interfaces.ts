@@ -19,3 +19,5 @@ let object2: ObjectInterface = {
   name: 'Kei',
   age: 23,
 };
+
+// ⬆︎汎用性が高い
