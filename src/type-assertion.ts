@@ -8,4 +8,4 @@ let length = (<string>name).length;
 // length = 'Sasa';
 // ⬆︎エラーが起きるので正しくアノテーションされている
 
-console.log();
+console.log(length);
